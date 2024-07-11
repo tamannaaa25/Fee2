@@ -1,0 +1,33 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#superheros{
+    color: peachpuff;
+    background-color: lightsalmon;
+    font-weight: 300;
+    text-align: center;
+}
+
+.super{
+    color: rgb(113, 180, 133);
+    font-weight: 800;
+}
+
+h1{
+    color: hotpink;
+    text-decoration: underline;
+    transform: rotateX(20degree);
+}
+
+input[type="text"]{
+    background-image: conic-gradient(rgb(255, 0, 0), rgb(255, 234, 0), rgb(38, 255, 0)
+
+    );
+}
+
+input[type="password"]{
+    background-image: linear-gradient(blue, pink
+    );
+}
