@@ -1,0 +1,30 @@
+section{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 167, 192);
+    border: 3px solid black;
+    transition: 1s;
+    transition-duration: 2s;
+    transition-delay: 1s;
+}
+
+section:hover{
+    border-radius: 50%;
+    background-color: rgb(255, 0, 102);
+
+}
+
+article{
+    margin: 20px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+article div{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(219, 180, 255);
+    margin: 4px;
+    transition-delay: 0s;
+    border: 2px solid black;
+}
+
